@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I am currently working on 3D scene understanding, utilizing 2D/2.5D input to perceive and process 3D spatial information.
-- 🤔 Main research interest: 3D scene understanding, Multimodal learning, Deep Learning on Remote Sensing
+- 🔭 I am currently working on **3D scene understanding**, utilizing 2D/2.5D input to perceive and process 3D spatial information.
+- 🤔 **Main research interest**: 3D scene understanding, Multimodal learning, Deep Learning on Remote Sensing
 
 <!--
 **TesiLin/TesiLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
